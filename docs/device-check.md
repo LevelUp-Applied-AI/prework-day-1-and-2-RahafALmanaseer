@@ -1,8 +1,8 @@
-# Device Check — [Your Name]
+# Device Check — [Rahafalmanaseer]
 
 **Program:** AI.SPIRE Pre-Work
-**Date completed:** [YYYY-MM-DD]
-**GitHub username:** [your-github-username]
+**Date completed:** [2002-2-27]
+**GitHub username:** [RahafALmanaseer]
 
 ---
 
@@ -22,15 +22,15 @@
 
 ## Evidence Checklist
 
-- [ ] Screenshot: OS version
-- [ ] Screenshot: RAM and CPU details
-- [ ] Screenshot: Free disk space
-- [ ] Screenshot: Internet speed test result
-- [ ] Screenshot: Admin rights confirmed
+- [![alt text](image.png)] Screenshot: OS version
+- [ ![alt text](image-1.png)] Screenshot: RAM and CPU details
+- [ ![alt text](image-2.png)] Screenshot: Free disk space
+- [![alt text](image-3.png)] Screenshot: Internet speed test result
+- [![alt text](image-6.png) ] Screenshot: Admin rights confirmed
 
 **Windows only:**
-- [ ] Screenshot: `wsl -l -v` output showing WSL 2
-- [ ] Screenshot: `wsl --status` output
+- [ ![alt text](image-4.png)] Screenshot: `wsl -l -v` output showing WSL 2
+- [ ![alt text](image-5.png)] Screenshot: `wsl --status` output
 
 ---
 
