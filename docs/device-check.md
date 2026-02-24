@@ -10,13 +10,13 @@
 
 | Specification | Your value |
 |---------------|------------|
-| Operating System | (e.g., Windows 11 22H2, macOS 14.4, Ubuntu 22.04) |
-| OS Build / Version | |
-| RAM | (e.g., 16 GB) |
-| CPU Model | (e.g., Intel Core i7-12700H, Apple M2) |
-| CPU Cores | |
-| Free Disk Space | (e.g., 45 GB free) |
-| Internet Speed (Download) | (from speedtest.net — Mbps) |
+| Operating System |windows 11 |
+| OS Build / Version |26200.7840 |
+| RAM |3.919 MB |
+| CPU Model |Intel(R) celeron(R) N4000 CPU @ 1.10GHz |
+| CPU Cores |2|
+| Free Disk Space |42 GB free |
+| Internet Speed (Download) | 56.23 — Mbps |
 
 ---
 
@@ -39,6 +39,11 @@
 **Result:** [Paste command output, or write "Confirmed via System Settings"]
 
 ---
+
+## Device Notes
+
+[Any device issues, constraints, or concerns. Write "None" if everything checks out.]
+
 
 ## Device Notes
 
