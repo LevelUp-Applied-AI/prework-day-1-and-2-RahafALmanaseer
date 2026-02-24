@@ -22,7 +22,8 @@
 
 ## Evidence Checklist
 
-- [![alt text](image.png)] Screenshot: OS version
+- [<img width="383" height="53" alt="Screenshot 2026-02-23 122727" src="https://github.com/user-attachments/assets/fd47bbea-72ba-42b1-b166-1476b2971dcf" />
+ ] Screenshot: OS version
 - [ ![alt text](image-1.png)] Screenshot: RAM and CPU details
 - [ ![alt text](image-2.png)] Screenshot: Free disk space
 - [![alt text](image-3.png)] Screenshot: Internet speed test result
